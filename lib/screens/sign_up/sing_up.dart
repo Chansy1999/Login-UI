@@ -32,7 +32,7 @@ class SignUp extends StatelessWidget {
             ),
             SizedBox(height: 16),
             Text(
-              "Log in to your existant account of Hello Chat",
+              "Create new account for Hello Chat",
               style: TextStyle(
                 fontSize: 16,
                 fontWeight: FontWeight.bold,
