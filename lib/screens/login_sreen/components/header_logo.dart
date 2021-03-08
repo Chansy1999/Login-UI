@@ -8,7 +8,7 @@ class HeaderLogo extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Icon(
-      Icons.local_dining,
+      Icons.message_outlined,
       size: 100,
       color: Colors.orange,
     );
